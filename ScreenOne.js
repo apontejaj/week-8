@@ -9,7 +9,7 @@ export default function ScreenOne({ navigation }) {
                 onPress={() => {
                     navigation.navigate('Two')
                 }}
-                title="Go to Screen Two... Mitzy was her, and jana too"
+                title="Go to Screen Two... Mitzy was here, and jana too"
             />
         </View>
     );
